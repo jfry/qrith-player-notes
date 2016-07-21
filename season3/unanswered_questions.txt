@@ -5,8 +5,10 @@ What are the provenance and purpose of the pins we've found in corpses?
 What happened to the gods? What might cause it to happen again?
 How can we profit from the gold we found?
 Is the geomancer dead? Or has he somehow inhabited another body?
-What is the cause of the inability for Feroz and Rakas to be healed?
+What is the cause of the inability for Feroz and Rakas to be healed & to be detected via Detect Living?
+Are their souls doomed, or just unable to be touched by Verin's magic?
 How long will the healing problems persist?
-Is this resistance to healing generalizable to resistance to magic?
+Is this resistance to healing generalizable to resistance to magic? (Seems it stops Detect Thoughts and does NOT stop Feather Fall)
 How many Shegans are there on this continent?
 What is the meaning of the tattoo we've seen? What organization is responsible for the actions of those tattooed?
+
